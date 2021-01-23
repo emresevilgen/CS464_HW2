@@ -1,6 +1,12 @@
 # CS464_HW2
 The Second Homework of The CS 464 - Introduction to Machine Learning
 
+PCA, Linear Regression, Logistic Regression, and SVM
+
+The assignment is at the [hw2.pdf](hw2.pdf) file.
+
+The report of the homework is at the [report.pdf](report.pdf) file.
+
 # Requirements:
 - Python 3.x
 - Numpy
